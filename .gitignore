@@ -1,0 +1,31 @@
+# IDE ENV
+.DS_Store
+nul
+.idea/
+.vscode/
+.venv/
+venv/
+
+# caches
+*.pyc
+.pytest_cache/
+__pycache__/
+.cache/
+res/
+log/
+*.log
+output/
+temp/
+*.pid
+*.csv
+allure-results/
+
+# dev config
+sloth.dev.yaml
+sloth-db.key
+
+
+# ignore assistant
+data/assistant/mismatch.txt
+data/assistant/notjump.txt
+data/assistant/passed.txt

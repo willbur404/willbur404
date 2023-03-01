@@ -1,0 +1,42 @@
+{
+    "version": "0.2",
+    "ignorePaths": [
+        "README.md",
+        ".venv",
+        "**/__pycache__",
+        "robust/log/",
+        "output",
+        "res",
+        "temp",
+        "data/data.yaml",
+        "lib/api.py",
+        "poetry.lock",
+        "pyproject.toml"
+    ],
+    "dictionaryDefinitions": [
+        {
+            "name": "sloth-dict",
+            "path": "./.cspell/sloth-dict.txt"
+        },
+        {
+            "name": "zyb-dict",
+            "path": "./.cspell/zyb-dict.txt"
+        }
+    ],
+    "dictionaries": [
+        "blog-dict"
+    ],
+    "words": [
+        "pycache",
+        "pyproject",
+        "venv"
+    ],
+    "ignoreWords": [],
+    "import": [],
+    "enableFiletypes": [
+        "toml",
+        "shellscript",
+        "ini"
+    ],
+    "allowCompoundWords": true
+}
