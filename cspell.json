@@ -27,8 +27,13 @@
         "blog-dict"
     ],
     "words": [
+        "isort",
         "pycache",
+        "pycln",
+        "pylint",
+        "pylintrc",
         "pyproject",
+        "rcfile",
         "venv"
     ],
     "ignoreWords": [],
