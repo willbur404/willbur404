@@ -8,3 +8,5 @@
 willbur404/willbur404 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<!-- 教程地址 -->
+https://www.zmrenwu.com/courses/hellodjango-blog-tutorial/materials/64/
